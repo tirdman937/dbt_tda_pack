@@ -1,0 +1,6 @@
+name: 'dbt_tda_pack'
+version: '0.0.1'
+
+require-dbt-version: [">=1.0.0", "<2.0.0"]
+
+config-version: 1
